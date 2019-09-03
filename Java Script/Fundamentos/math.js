@@ -4,3 +4,4 @@ const area = Math.PI * Math.pow(raio, 2) /* Math é um objeto e tem uma constant
 */
 console.log(area)
 console.log(typeof Math) //Math é um objeto
+
