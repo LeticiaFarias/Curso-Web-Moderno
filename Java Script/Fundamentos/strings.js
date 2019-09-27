@@ -1,4 +1,4 @@
-const escola = "Cod3r Cursos"
+const escola = "Cod3r Cursos "
 
 console.log(escola.charAt(4)) // Mostra o índice 4 da string
 console.log(escola.charAt(5)) // Mostra o índice 5 na string, nesse caso, vazio
