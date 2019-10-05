@@ -1,4 +1,4 @@
-const escola = "Cod3r"
+const escola = "Cod3r Cursos"
 
 console.log(escola.charAt(4)) // Mostra o índice 4 da string
 console.log(escola.charAt(5)) // Mostra o índice 5 na string, nesse caso, vazio
@@ -13,4 +13,5 @@ console.log('Escola '.concat(escola).concat("!"))
 console.log('Escola ' + escola + "!")
 console.log(escola.replace(3, 'e'))
 
-console.log('Ana,Maria,Pedro'.split(','))
+console.log('Ana,Maria,Pedro'.split(',')) // Separando por vígulas
+
