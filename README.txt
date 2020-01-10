@@ -1,6 +1,6 @@
 # Web Moderno
 
-* [ ] Fundamentos de JavaScript
+* [x] Fundamentos de JavaScript
 * [ ] Estruturas de Controle
 * [ ] Função
 * [ ] Objeto
