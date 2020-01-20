@@ -2,7 +2,7 @@
 
 * [x] Fundamentos de JavaScript
 * [x] Estruturas de Controle
-* [ ] Função
+* [x] Função
 * [ ] Objeto
 * [ ] Array
 * [ ] Node
