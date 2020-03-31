@@ -3,7 +3,7 @@
 * [x] Fundamentos de JavaScript
 * [x] Estruturas de Controle
 * [x] Função
-* [ ] Objeto
+* [x] Objeto
 * [ ] Array
 * [ ] Node
 * [ ] ESNext
